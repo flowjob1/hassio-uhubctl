@@ -4,8 +4,12 @@ This project was spawned by the desire to control [`uhubctl`](https://github.com
 
 This add-on takes advantage of the API provided by Home Assistant and is extremely easy to use. You no longer even need to set up credentials to connect to the MQTT server.
 
-This is a fork of [https://github.com/mochipon/hassio-uhubctl](https://github.com/mochipon/hassio-uhubctl), all credit goes to [mochipon](https://github.com/mochipon).
+This is a fork of [https://github.com/Nodman/hassio-uhubctl](https://github.com/Nodman/hassio-uhubctl), which is a fork of [https://github.com/rglenn/hassio-uhubctl](https://github.com/rglenn/hassio-uhubctl), which is a fork of the Original [https://github.com/mochipon/hassio-uhubctl](https://github.com/mochipon/hassio-uhubctl).
+
+<img src="images/yodawg.png" width="300"/>
+
 Improvements:
+
 -tbd-
 
 ## Add-on Install Instructions
