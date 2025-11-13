@@ -4,10 +4,14 @@ This project was spawned by the desire to control [`uhubctl`](https://github.com
 
 This add-on takes advantage of the API provided by Home Assistant and is extremely easy to use. You no longer even need to set up credentials to connect to the MQTT server.
 
+This is a fork of [https://github.com/mochipon/hassio-uhubctl](https://github.com/mochipon/hassio-uhubctl), all credit goes to [mochipon](https://github.com/mochipon).
+Improvements:
+-tbd-
+
 ## Add-on Install Instructions
 1. Navigate in your Home Assistant frontend to <kbd>Supervisor</kbd> -> <kbd>Add-on Store</kbd>.
 
-2. Click the 3-dots menu at upper right <kbd>...</kbd> > <kbd>Repositories</kbd> and add this repository's URL: [https://github.com/mochipon/hassio-uhubctl](https://github.com/mochipon/hassio-uhubctl)
+2. Click the 3-dots menu at upper right <kbd>...</kbd> > <kbd>Repositories</kbd> and add this repository's URL: [https://github.com/flowjob1/hassio-uhubctl](https://github.com/flowjob1/hassio-uhubctl)
 
 3. Scroll down the page to find the new repository, and click the new add-on named "MQTT Bridge for uhubctl"
 
