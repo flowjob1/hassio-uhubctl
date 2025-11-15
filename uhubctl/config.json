@@ -21,9 +21,9 @@
     "devices": ["/dev/bus/usb:/dev/bus/usb:rwm"],
     "full_access": true,
     "options": {
-        "AVAILABILITY_TOPIC": "tele/uhubctl/localhost/LWT",
-        "STATUS_TOPIC": "tele/uhubctl/localhost",
-        "COMMAND_TOPIC": "cmnd/uhubctl/localhost"
+        "AVAILABILITY_TOPIC": "tele/uhubctl/hub/LWT",
+        "STATUS_TOPIC": "tele/uhubctl/hub",
+        "COMMAND_TOPIC": "cmnd/uhubctl/hub"
     },
     "schema": {
         "AVAILABILITY_TOPIC": "str",
